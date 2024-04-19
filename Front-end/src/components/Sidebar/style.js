@@ -18,3 +18,4 @@ export const IconsSidebar = {
         cursor: 'pointer'
     }
 }
+
